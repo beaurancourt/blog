@@ -1,5 +1,5 @@
-Oh man, I've been waiting for a post exactly like this, so here's to hoping
-this fosters some actual discussion.
+This post should serve as a sort of myth-dispeller about action combat (BDO,
+New World, TERA) vs tab combat (World of Warcraft, FFXIV) in MMOs.
 
 The short of it is that in action combat, hit validation is performed by
 comparing the area-of-effect of an ability to the position of relevant
@@ -35,7 +35,7 @@ simpler distance measuring (like if all of your skills were frost nova).
 Separate from these ideas, for historical or traditional reasons, these games
 also tend to emphasize different skills. I wrote a pretty long writeup about
 what [difficulty actually
-is](https://www.reddit.com/r/newworldgame/comments/p2c353/after_nw_i_believe_all_future_mmos_must_have/h8joh6a/),
+is](/posts/what-is-difficulty),
 but the TLDR is that when we interact with our mouse and keyboard difficulty
 only comes in three forms: figuring out the right button/mouse motion to press,
 pressing complex sequences correctly, and pressing those buttons/sequences with
@@ -69,24 +69,3 @@ carried on*. Whether or not you have a target doesn't preclude dodge rolling or
 hit stun. Tab target games don't [need to have an auto
 attack](https://www.reddit.com/r/newworldgame/comments/p2c353/after_nw_i_believe_all_future_mmos_must_have/h8kh48t/),
 even though many do.
-
------
-
-edit:
-
-I forgot about preferences!
-
-On a system architecture level, I like tab-based validation for MMOs, but tend
-to dislike how it's implemented in every tab-based game I've played because of
-the historical baggage it carries. If you want your game to be action-based,
-(and especially if you're using hitboxes/hurtboxes), then you add a *massive*
-amount of computational complexity to the server and your game becomes
-extremely janky under normal network conditions. I wrote up a long-form post
-explaining this
-[here](https://www.reddit.com/r/AshesofCreation/comments/m5teal/action_combat_netcode_and_latency/)
-and
-[here](https://www.reddit.com/r/newworldgame/comments/p2c353/after_nw_i_believe_all_future_mmos_must_have/h8kv96v/).
-That said, tab-based MMOs tend to design out complex [rock-paper-scissor
-interactions](https://www.reddit.com/r/newworldgame/comments/p2c353/after_nw_i_believe_all_future_mmos_must_have/h8nipvv/)
-(called yomi in the fighting game community), and get rid of most timing and
-sequencing requirements, which I would really love to have.

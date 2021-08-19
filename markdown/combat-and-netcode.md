@@ -68,10 +68,10 @@ games in the first place.
 -----
 
 The solution to this is, unfortunately, to just design with this concession in
-mind. Precise spacing with latency is going to suck, so don't build a game that
-relies on it. Instead, build for something that masks the latency (like tab
-targetting). Build the game *around* tab targetting concepts - short damage
-reduction windows on cooldowns, short burst damage windows on cooldowns,
+mind. Precise spacing with latency is going to miss the mark, so don't build a
+game that relies on it. Instead, build for something that masks the latency
+(like tab targetting). Build the game *around* tab targetting concepts - short
+damage reduction windows on cooldowns, short burst damage windows on cooldowns,
 baiting enemies into poorly trading offensive for defensives. Add
 tab-targetting skill-based mechanics, like skill sequences that force players
 to have a high APM while moving. Add the ability to create/remove line of sight
@@ -83,4 +83,4 @@ landing those interrupts.
 
 Basically, do everything you can to make your combat deep and interesting
 *without* making it rely on spacing when you *know* you have to support
-unfavorable network conditions!w
+unfavorable network conditions!
