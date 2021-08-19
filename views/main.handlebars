@@ -1,0 +1,12 @@
+<h1 style="border-bottom: 1px">Writings</h1>
+
+<div style="margin-top: 20px; border-top: 1px solid; padding-top: 20px">
+  <ul>
+    {{#each posts}}
+      <li>
+        <a href="/posts/{{ref}}">{{name}}</a>
+        <small>{{date}}</small>
+      </li>
+    {{/each}}
+  </ul>
+</div>
