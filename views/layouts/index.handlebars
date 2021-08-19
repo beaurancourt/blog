@@ -5,14 +5,22 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
     <style>
+      html {
+        font-size: 100%
+      }
       body {
         font-family: 'Roboto Slab', serif;
+      }
+      @media (min-width: 80.0rem) {
+        html {
+          font-size: 62.5%
+        }
       }
     </style>
   </head>
   <body>
-    <section class="container" style="margin-top:40px">
+    <div class="container" style="margin-top:40px">
       {{{body}}}
-    </section>
+    </div>
   </body>
 </html>
