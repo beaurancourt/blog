@@ -1,6 +1,6 @@
 One of the hallmarks of MMOs is players having to invest time in [character
 progression](/posts/progression) in particular character differentiators. This
-cones in a lot of forms and is implemented in different ways in different games,
+comes in a lot of forms and is implemented in different ways in different games,
 but some key results remain the same.
 
 * In Final Fantasy XIV, you can only level up one "Job" at a time
