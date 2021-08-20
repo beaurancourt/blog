@@ -12,7 +12,8 @@ MMOs are different than games like Uncharted or Undertale in a few key ways.
 They're much less about creating a spectacle / playthrough experience than they
 are about creating a game that has a high hour-to-hour quality of life. They're
 games that need to be optimized for playing 10000 hours instead of 40. As
-players, we want our games to be good *worlds* to live in.
+players, we want our games to be good *worlds* to live in. They don't need
+to be developed in secret.
 
 As such, I propose that the after-launch game iteration process follows a
 governance system similar to old-school runescape. Why do MMO developers create
