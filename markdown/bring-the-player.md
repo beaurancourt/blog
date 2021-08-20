@@ -24,7 +24,7 @@ The opposite end of this are in-game challenges that require *specific* groups.
 Say, for example, that you had a dungeon that was only beatable if you had a
 rogue to pick an interior lock, a hunter to soothe a deadly beast, etc. Or, say
 that each class has an *extremely* strong non-stacking buff such that it's
-*never* worth bringin two rogues to the same 5-man party because that would
+*never* worth bringing two rogues to the same 5-man party because that would
 mean your 5-man group has at most 4 buffs instead of 5.
 
 What ends up happening is that now friend-groups are forced to diversify. Some
