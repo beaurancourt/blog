@@ -24,6 +24,8 @@ adding golden gun skins as a reward to the competitive mode of overwatch.
 > think it really takes a really special mindset to be in Competitive, and I
 > think a lot of the problems that we see are players who really don’t want to,
 > or belong there, spending more time than they should there.
+>
+> -- Jeff Kaplan
 
 Prior to the gun skins, players in the competitive mode were playing *for the
 sake of competition*, and people who didn't want that environment were in
