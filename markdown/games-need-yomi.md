@@ -64,10 +64,11 @@ non-interactive ways, instead have something like the following:
 * If you expect that your opponent will **crush** you, you can **attack** them to interrupt it.
 
 Make it so that all three options have the same cast-bar name, about a ~1.0
-second cast time, and when one cast finishes it interacts with whatever the
-other player is *currently* casting. If both players attack each other, they
-clang and neither take damage. If both players crush, they both take damage. If
-both players parry, neither takes damage.
+second cast time, indistinguishable startup animations, and when one cast
+finishes it interacts with whatever the other player is *currently* casting. If
+both players attack each other, they clang and neither take damage. If both
+players crush, they both take damage. If both players parry, neither takes
+damage.
 
 Boom! Now you have the foundation for a combat system that is yomi-enabled from
 the start.
