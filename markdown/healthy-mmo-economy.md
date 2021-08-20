@@ -87,7 +87,7 @@ Boom, now you have functional markets, stable liquidity, and meaningful crafting
 
 After that, supply your players with the tools they need to have proper price
 discovery. Either implement a full order book (buys, sells, buy orders, sell
-orders), even simpler, have liquidity pools like
+orders), Or, even simpler, have liquidity pools like
 [uniswap](https://info.uniswap.org/#/pools).
 
 Modern wow only has half of the order book - they lack buy orders. Sellers have
