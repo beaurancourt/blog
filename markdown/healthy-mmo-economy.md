@@ -84,3 +84,13 @@ increase the fee. This can be done algorithmically using whatever peroidicity
 you prefer!
 
 Boom, now you have functional markets, stable liquidity, and meaningful crafting.
+
+After that, supply your players with the tools they need to have proper price
+discovery. Either implement a full order book (buys, sells, buy orders, sell
+orders), even simpler, have liquidity pools like
+[uniswap](https://info.uniswap.org/#/pools).
+
+Modern wow only has half of the order book - they lack buy orders. Sellers have
+to do price discovery by listing items for random prices to see if people will buy
+it or not. Much better is if buyers can directly list which prices they're willing
+to pay (buy orders).
