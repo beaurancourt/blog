@@ -68,7 +68,9 @@ content that drops all of the materials (or lock access to gear behind
 achivements for defeating content).
 
 Second, make that gear *eventually* break through use, and require more of the
-same sort of gear. This creates a gear-sink that scales with player activity.
+same sort of gear to repair it. In order to repair your onlyxia scale cloak, you need to dismantle
+another onyxia scale cloak to patch it up.  This creates a gear-sink that
+scales with player activity.
 
 > create inflationary currency systems where the amount of currency
 minted by the game (dropped by monsters, rewarded by quests) outpaces the
