@@ -1,5 +1,5 @@
 I still maintain that the biggest design failure in World of Warcraft is the
-two-faction system. It has lead to *so* many problems:
+two-faction system. It leads to *so* many problems:
 
 * Players of the larger faction have difficulty finding structured PvP against
   the smaller faction.
@@ -15,7 +15,7 @@ two-faction system. It has lead to *so* many problems:
   for the other faction.
 
 The more systems you tie into factions, the harder the choice (and the more
-decision paralysis) you put on a player. They now either has to make the
+decision paralysis) you put on a player. They now either have to make the
 decision blindly or put up a large amount of up-front research. If the factions
 tie into player power and aesthetic identity, now you force players to either
 be strong but look unappealing (to them), or be weak but look appealing.  If
@@ -26,7 +26,7 @@ ally with players who you may like less than *anyone on the other faction*.
 Cap guild sizes at relatively small numbers (say, ~100), and make everyone not
 in your guild potentially hostile. Prevent griefing via the sorts of karma
 systems used in albion online, and preserve the new player experience by
-disabling non-consentual PvP in most zones. Check out EvE Online's
+disabling non-consensual PvP in most zones. Check out EvE Online's
 implementation of [zone
 security](https://wiki.eveuniversity.org/System_security) for a tried-and-true
 way to achieve this.
