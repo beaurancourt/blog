@@ -51,3 +51,30 @@ Now, you're making your own dynamic decisions based on what you think your oppon
 do, and they're doing the same thing. Hopefully, these decisions lead into
 different gamestates, different forms of difficulty, and different yomi games,
 and the whole thing turns into an elegant dance rather than a contest of DPS vs eHP.
+
+----
+
+Here's an example of how this could work in a tab-target friendly,
+latency-friendly way in a small scale. Rather than melee characters having a
+bunch of instant cast abilities that help them do damage in different,
+non-interactive ways, instead have something like the following:
+
+* If you expect that your opponent will **attack** you, you should be able to **parry** it.
+* If you expect that your opponent will **parry** you, you should be able to **crush** it.
+* If you expect that your opponent will **crush** you, you can **attack** them to interrupt it.
+
+Make it so that all three options have the same cast-bar name, about a ~1.0
+second cast time, and when one cast finishes it interacts with whatever the
+other player is *currently* casting. If both players attack each other, they
+clang and neither take damage. If both players crush, they both take damage. If
+both players parry, neither takes damage.
+
+Boom! Now you have the foundation for a combat system that is yomi-enabled from
+the start.
+
+If you want to get spicy, you can make it so that the reward payout for each of
+those options is different for different character types / builds, and make it
+so that each of those different outcomes applies different buffs/debuffs to
+charcter, or make it so that those buffs/debuffs enable the use of other
+yomi-enabled skills that have their own different payouts. The sky's the limit!
+Let's stop designing non-interactive tab-based combat!
