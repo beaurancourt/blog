@@ -44,5 +44,8 @@ raid](https://www.youtube.com/watch?v=Htmzbf9TdMA).
 Now to have a healthy game, you *must* try to balance as well as possible.
 Players need to be assured that their class will be viable as much as possible,
 since they've often invested *thousands* of hours into it.  Collect internal
-metrics about which classes and builds are performing the best in actual play.
-[Propose](/posts/patch-governance)
+metrics about which classes and builds are performing the best and worst in
+actual play.  Automatically (as in with
+automation) [Propose](/posts/patch-governance) changes to those classes/builds
+as soon as they exceed tolerance levels. Be transparent about your
+methodologies. Repeat until your game is stable.
