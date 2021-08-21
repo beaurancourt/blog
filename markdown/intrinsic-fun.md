@@ -53,7 +53,8 @@ capture-the-flag. A hardcore raider might be willing to slog through a bunch of
 frustrating 2v2 matches if it [rewards them](/posts/make-it-always-good) with
 the best PvE gear. MMOs try to cater to all kinds of playstyles, and try to
 lump crafters, marketeers, PvP players, casual explorers, hardcore raiders, etc
-all togtether in one game.
+all together in one game. Their differences in intrinsic fun can *clash*,
+leading to friction and eventually toxicity.
 
 Now, if a game attempts to emphasize hardcore raiding, it'll have PvP players
 and marketeers complain that they have to go through *more* of a slog to be
