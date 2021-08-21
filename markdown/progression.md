@@ -17,7 +17,7 @@ defined as follows:
 
 I **love** these definitions! I think they're extremely useful to keep in mind
 while thinking about [intrinsic fun](/posts/intrinsic-fun) and game design. On
-a personal level, I care *almost nothing* nothing about my character progression,
+a personal level, I care *almost nothing* about my character progression,
 and am also completely unimpressed by other people's character progression.
 Being forced to spend time progressing my character so that I'm *allowed* to fight
 another player or NPC upsets me. Being forced to complete small, timegated
