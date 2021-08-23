@@ -80,7 +80,7 @@ This one can be solved via dynamically adjusted fee rates, similar to how the fe
 controls inflation by adjusting the interest rates of bank-to-bank loans.
 Measure the amount of currency changing hands per day per player. If that
 number is too high, increase the auction house fee. If that number is too low,
-increase the fee. This can be done algorithmically using whatever peroidicity
+decrease the fee. This can be done algorithmically using whatever peroidicity
 you prefer!
 
 Boom, now you have functional markets, stable liquidity, and meaningful crafting.
