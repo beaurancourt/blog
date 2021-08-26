@@ -5,12 +5,12 @@ draws heavy inspiration from classic wargaming, specifically the game
 [Chainmail](https://en.wikipedia.org/wiki/Chainmail_(game)), as both were
 originally created by Gary Gygax.
 
-Randomness in those sorts of games serves two main uses: ease of abstraction and
-arbitration, and drama. For abstraction and arbitration, consider the
+Randomness in those sorts of games serves two main uses: ease of abstraction
+and arbitration, and drama. For abstraction and arbitration, consider the
 following. Rather than try to simulate the physics of exactly how strong
-someone would be based on their genetics, upbringing, and training, instead they
-recognize that the *results* of all of that tend to fall on a normal curve and
-can map that to the result of adding up 3 6-sided dice. Rather than try to
+someone would be based on their genetics, upbringing, and training, instead
+they recognize that the *results* of all of that tend to fall on a normal curve
+and can map that to the result of adding up 3 6-sided dice. Rather than try to
 figure out the physics of how exactly someone swinging an ax at someone else
 resolves, they instead abstract that into a random chance to hit, and random
 damage if it hits.
@@ -19,33 +19,34 @@ For the drama side, leaving the fate of the characters or direction up to the
 dice creates palpable moments of tension for the players. If the heroes are
 hanging on by a thread and they've got one last-ditch effort to win the day,
 everyone is on the edge of their seat as the dice are falling. The randomness
-also builds in novelty of situation to the game, as situations are unlikely
-to be the same, even when you start from the same position. Players
-attempting to optimize now have to reason about probability as they think through
-their options and lines.
+also builds in novelty of situation to the game, as situations are unlikely to
+be the same, even when you start from the same position. Players attempting to
+optimize now have to reason about probability as they think through their
+options and lines.
 
 ### Removing The Need For Random Arbitration
 
 When table-top RPGs became computerized, they often ported these systems over
-[directly](https://en.wikipedia.org/wiki/Baldur%27s_Gate). These made for *great*
-games. Eventually, the genre moved to the more modern approaches seen in Everquest
-and World of Warcraft. During the transition, *a lot* of the original decision
-decisions stayed. D&D had armor class and saving throws, and so attacks and
-abilities in MMOs had chances to miss. D&D was turned-based, and so MMO combat
-was built as if both people were taking turns but at the same time.
+[directly](https://en.wikipedia.org/wiki/Baldur%27s_Gate). These made for
+*great* games. Eventually, the genre moved to the more modern approaches seen
+in Everquest and World of Warcraft. During the transition, *a lot* of the
+original decisions stayed. D&D had armor class and saving throws, and
+so attacks and abilities in MMOs had chances to miss. D&D was turned-based, and
+so MMO combat was built as if both people were taking turns but at the same
+time.
 
 At the same time as MMOs were being developed, other genres with different
 models for combat were also advancing. Adventure games like [LoZ: A Link To The
-Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past) included
-a concept called hit-stop: if you hit an enemy, it would interrupt it from
-attacking you. If it hit you, it would interrupt you from attacking it. This
-lead to gameplay where you had to carefully time your attacks and choose the
-proper distance/spacing to attack from. Action games like [Devil May
-Cry](https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)) took this further, allowing
-a high degree of character freedom and made enemies react differently to
-different attacks that Dante performed. Check out [this
-video](https://www.youtube.com/watch?v=8X4fx-YncqA) for a comprehensive visual explainer
-on these concepts.
+Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)
+included a concept called hit-stop: if you hit an enemy, it would interrupt it
+from attacking you. If it hit you, it would interrupt you from attacking it.
+This lead to gameplay where you had to carefully time your attacks and choose
+the proper distance/spacing to attack from. Action games like [Devil May
+Cry](https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)) took this
+further, allowing a high degree of character freedom and made enemies react
+differently to different attacks that Dante performed. Check out [this
+video](https://www.youtube.com/watch?v=8X4fx-YncqA) for a comprehensive visual
+explainer on these concepts.
 
 As the physics and combat in games became more and more sophisticated, we had
 to rely less and less on attempting to mathematically model *outcomes*, like we
@@ -78,9 +79,9 @@ and can calculate the lines more accurately.
 When an underdog is in a losing position in Hearthstone against a better
 player, sometimes they can
 [topdeck](https://hearthstone.fandom.com/wiki/Top_deck#:~:text=Top%20deck%20is%20a%20card,the%20top%20of%20the%20deck.&text=Top%2Ddecking%20is%20one%20of,top%2Ddeck%20can%20lose%20it.)
-the exact card they needed, and then that
-card randomly works in exactly the way they needed for it to work. When a worse
-player is in a worse position in melee, they probably just get wrecked.
+the exact card they needed, and then that card randomly works in exactly the
+way they needed for it to work. When a worse player is in a worse position in
+melee, they probably just get wrecked.
 
 Historically, games like melee only appeal to competitive purists and have a
 tough time growing. I, personally, love them, but that isn't enough! To appeal
@@ -89,13 +90,13 @@ so that when folks try the game out, they don't just lose all of the time until
 they're better than the players they're beating. Randomness is the *laziest*
 way to accomplish this.
 
-* Fortnite (in early seasons) gave some players pistols and other players rocket
-  launchers off-spawn.
+* Fortnite (in early seasons) gave some players pistols and other players
+  rocket launchers off-spawn.
 * Poker always gives you the chance that you lucked into having the best hand
   at the table.
-* Card games (Magic: The Gathering, Android: Netrunner, Hearthstone, etc) bake in variance
-  at a low level via shuffling cards. Hearthstone takes it further by making the
-  cards themselves have random effects.
+* Card games (Magic: The Gathering, Android: Netrunner, Hearthstone, etc) bake
+  in variance at a low level via shuffling cards. Hearthstone takes it further
+  by making the cards themselves have random effects.
 
 Better is to build in underdog-detection into your game and grant the underdog
 some sort of special option. Here are some examples:
@@ -143,9 +144,12 @@ I don't think the original RPG developers *intentionally* built an [operant
 conditioning
 chamber](https://en.wikipedia.org/wiki/Operant_conditioning_chamber) when they
 made the first random loot systems. I don't *want* to believe that. But that's
-what *happened* nonetheless. From Skinner's [research](https://en.wikipedia.org/wiki/Operant_conditioning), we know the following:
+what *happened* nonetheless. From Skinner's
+[research](https://en.wikipedia.org/wiki/Operant_conditioning), we know the
+following:
 
-- If a mouse is fed every time it pushes a lever, it will only push the lever when it is hungry.
+- If a mouse is fed every time it pushes a lever, it will only push the lever
+  when it is hungry.
 - If a mouse is *randomly* fed every time it pushes a level, it will spend all
   day constantly pushing the level, regardless of how hungry it is.
 
