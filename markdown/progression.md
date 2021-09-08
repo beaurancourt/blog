@@ -65,10 +65,11 @@ to not get wrecked by the boss's aoe attacks, but the *vast* majority of your
 gametime is spent in comfortably farming maps to increase your character power
 so you can comfortably farm more maps.
 
-I think games that emphasize character progression over player progression are on
-some level predatory. Character power progression is a drip-fed dopamine rush since
-you feel like *you* leveled up when your *character* levels up, because *you* are
-represented by *your character*. Games, like RPGs that lock character
-proression behind RNG systems (like random loot) are thinly disguised [skinner
-boxes](https://en.wikipedia.org/wiki/Operant_conditioning_chamber) and I really wish
-the reliance on these systems could be dimished.
+I think games that emphasize character progression over player progression are
+on some level predatory. Character power progression is a drip-fed dopamine
+rush since you feel like *you* leveled up when your *character* levels up,
+because *you* are represented by *your character*. Games, like RPGs that lock
+character progression behind RNG systems (like random loot) are thinly
+disguised [skinner
+boxes](https://en.wikipedia.org/wiki/Operant_conditioning_chamber) and I really
+wish the reliance on these systems could be dimished.
