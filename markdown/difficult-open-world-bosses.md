@@ -65,3 +65,5 @@ Or how **mind-numbingly boring** that would be as a guard.
 On the diplomacy front, this is something that a single stealthed rogue can
 ruin. If one upset nerd has the power to wipe your group over and over, you bet
 your bottom dollar they'll try over and over.
+
+Credit to @Noaani on the Ashes of Creation forums for exposing me to the idea!
