@@ -150,10 +150,12 @@ better puzzles and marginally better beatmaps. Previously a class might be
 pressing 3-4 buttons in a deterministic rotation. Now, they might be handling
 random buffs that affect their rotations, 2-4 different buttons that have high
 lowest-common-denominator cooldowns that all need to be pressed when available.
-(For example, consider an ability with a 7-second cooldown and another ability
-with a 10). They gave the classes unique resources (sometimes multiple) to
-manage - you'd be building one resource while spending another (runes/runic
-power, combo points/energy).
+(Exercise for the reader: work out how many game-states pressing an ability
+with a 7-second cooldown and another ability with a 10-second cooldown produces
+with a 1.5 global. off-off, 5.5-off, 4-8.5, off-4.5, 5.5-3, 2.5-off, etc). They
+gave the classes unique resources (sometimes multiple) to manage - you'd be
+building one resource while spending another (runes/runic power, combo
+points/energy).
 
 The result for each class is that figuring out what the next button you
 should press often ended up looking like:
@@ -205,7 +207,7 @@ chat channels to get the spam and boost advertising out so that players
 
 What happens to the players who truly only have 30 minutes to play and don't
 have time to meet people, get to a dungeon, run it, and chat? The players that
-only have time to teleport do a dungeon, speed-clear it, and then disappear back
+only have time to teleport to a dungeon, speed-clear it, and then disappear back
 offline? Making the game support that kind of play **is** what destroyed the
 sense of community, so pick your poison.
 
