@@ -192,7 +192,7 @@ The cost was the sense of community. It might sound romantic, but in Vanilla I
 knew tons of folks on my server and they knew me. A big part of that
 was being forced to form groups and guilds with the same folks on your server
 over and over, and being forced to play against the same horde premades in
-Warsong Gulch every night. Solve queue problems letting the factions play
+Warsong Gulch every night. Solve queue problems by letting the factions play
 against each other (they always could use the practice after all). Offer
 low-population servers one-way transfers to medium-population servers. Point
 new players to *medium* population servers. Otherwise, make it *difficult* to
