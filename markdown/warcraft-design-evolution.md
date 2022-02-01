@@ -63,8 +63,8 @@ alt-tab and look at something else. You're safe, after all.
 
 Following this, the (reasonable) question became: "Why are we traveling at all?"
 If travel is riskless, uninteresting, and quick... why do it? I don't have a
-good answer there. A game like Ashes of Creation wants travel to be meaningful
-- there's always a chance that another player kills you on the road and takes
+good answer there. A game like Ashes of Creation wants travel to be meaningful:
+there's always a chance that another player kills you on the road and takes
 your materials and certificates. That further plays into the bounty/crafting
 system. WoW, especially on PvE (originally labeled "Normal") servers don't
 have any of that.
