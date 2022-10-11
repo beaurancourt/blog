@@ -1,6 +1,7 @@
 const express = require('express');
+const path = require('path');
 const marked = require("marked");
-var fs = require('fs');
+const fs = require('fs');
 
 const app = express();
 const port = 80;
@@ -9,7 +10,8 @@ app.set('view engine', 'handlebars');
 app.engine('handlebars', handlebars({
   layoutsDir: __dirname + '/views/layouts',
 }));
-app.use(express.static('public'))
+const dir = path.join(__dirname, 'public');
+app.use(express.static(dir))
 
 const home = (_, res) => {
   fs.readdir('markdown', (_, files) => {
