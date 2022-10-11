@@ -4,7 +4,7 @@ const marked = require("marked");
 const fs = require('fs');
 
 const app = express();
-const port = 80;
+const port = 8000;
 const handlebars = require('express-handlebars');
 app.set('view engine', 'handlebars');
 app.engine('handlebars', handlebars({
