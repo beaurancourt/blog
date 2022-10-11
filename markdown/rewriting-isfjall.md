@@ -61,10 +61,16 @@ structure that's reinforced by *I Smell A Rat*: DFE14: **Finding A Quest**. In
 
 Woah, lots to unpack here, and a lot to rewind in order to have a coherent
 campaign. Say that you're just like me, and this is the first Nordlond (first
-gurps adventure at all, really) adventure you're running. The characters just
-met each other. You've pitched a "viking/skyrim setting with faeries and
-dragons and demons" and the players are super into it and made characters.
-Chatter died down and it's time for you to set the scene. What's your speech?
+gurps adventure at all, really) adventure you're running. What are all of these
+nouns, events, and plot points? Did I skip a section?
+
+Wait, did I miss the opening speech somewhere?
+
+Where's the "Session 1" info?
+
+You've pitched a "viking/skyrim setting with faeries and dragons and demons"
+and the players are super into it and made characters. Chatter died down and
+it's time for you to set the scene. What's your speech?
 
 Caravan to Ein Arris gives you a speech.
 
@@ -923,6 +929,19 @@ them payment in advance:
 + 28 Elven Rations
 + $260 spending cash (13 silver)
 
+The pack pony's stats are weird - it says they have a carry capacity of 175 lbs
+on HoJ:14 which is "medium encumbrance", and that's 2xBL. None of this agrees
+with how encumbrance or speed is calculated per DFA11.
+
+Normally, medium encumbrance is up to 3x BL, and puts you at 0.6x move. At a
+move of 7, that would be 4. Working backwards, that puts our pony at 17 total
+lifting ST. Oddly, the stat-block for pack ponies on HoJ:70 gives 18 ST, 21
+lifting ST, 7 Move, but still that same base 175 carry capacity. At 21 ST,
+*light* encumbrance is 176 lbs (so I can see where 175 came from), but now the
+move speed is 5. So, we either have 17 effective ST ponies or 21 effective ST
+ponies. Let's go with 17; it's in line with the work from the Nordlond
+Bestiary.
+
 The cash is a substitue for the vatnvikur from the original text. Dungeon
 Fantasy 16: Wilderness Adventures says on page 43 about water:
 
@@ -1014,10 +1033,10 @@ town, this is awesome"!, and then the book skipped directly to "The Lost Hall
 of Judgement" and wrote out the skeleton of a scene and motivation. 
 
 My stomache sunk thinking "where are the things *players* care about?" What
-does this guy look like? Where are the NPCs they'll interact with? How do I
-actually start the game? There's this great post that [Charles
-Saeger](http://gurpshexytime.blogspot.com/) links to called [twenty quick
-questions for your campaign
+does this guy look like? Where are the NPCs they'll interact with? What are these problems and places that they're
+referencing - did I miss something? How do I actually start the game? There's
+this great post that [Charles Saeger](http://gurpshexytime.blogspot.com/) links
+to called [twenty quick questions for your campaign
 setting](http://jrients.blogspot.com/2011/04/twenty-quick-questions-for-your.html)
 and I think rewriting Isfjall so that *these* answers are bolded, front and
 center would have been awesome.
