@@ -341,8 +341,9 @@ Clothing*, which still isn't defined, and *Genuine Arctic Clothing*, which
 isn't defined either, but otherwise the system is abstract, easy to run, and
 coherent.
 
-As it happens, I think this is an error in DFRPG. Actic Clothing and Winter
-Clothing are defined on DF16:16, copied here for your convenience:
+As it happens, I think the reference to arctic/winter clothing is an error in
+DFRPG. Actic Clothing and Winter Clothing are defined on DF16:16, copied here
+for your convenience:
 
 + Arctic Clothing: Counts as Winter Clothing and gives +5 to HT rolls
   for cold in arctic climates. Also gives +1 DR vs. all
@@ -353,8 +354,8 @@ Clothing are defined on DF16:16, copied here for your convenience:
 
 Everyone gets a set of Regular Clothing for free, so the idea is that player
 can upgrade at chargen to winter or arctic for $60 (and 3lbs) or $120 (and
-8lbs) respectively. I think SJG must have forgot that arctic/winter clothing
-wasn't in DFA when they wrote DFE, since both books came after DF16.
+8lbs) respectively. I think SJG forgot that arctic/winter clothing wasn't in
+DFA when they wrote DFE, since both books came after DF16.
 
 Anyway, no harm in importing those, and it streamlines the whole thing.
 
