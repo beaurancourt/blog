@@ -15,7 +15,7 @@ function getPosts() {
     const fileId = file.slice(0, file.length - 3)
     return {
       url: `http://beaushinkle.xyz/posts/${fileId}`,
-      guid: `${fileId}-${changeTime}`
+      guid: `${fileId}-${changeTime}`,
       name: toTitle(fileId),
       date: date,
       rawDate: rawDate
