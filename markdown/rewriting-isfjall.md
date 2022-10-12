@@ -796,7 +796,7 @@ by Elunad.
 
 On September 15th, 965 FN, Elunad joins Gyrid's party.
 
-On September 20th, 965 FN, Elunad betrays Gyrid's party at the enchant lake,
+On September 20th, 965 FN, Elunad betrays Gyrid's party at the enchanted lake,
 but loses the tiwstakn. Steinthor and Einara journey back to Isfjall.
 
 On September 24th, 965 FN, Steinthor and Einara make it back to Isfjall and
@@ -1057,4 +1057,4 @@ Judgement, as well as folks looking to write their own modules trying to
 understand how it looks from the side of someone trying to absorb your writing.
 
 This was just the opening sessions in Isfjall. Follow-up posts will cover
-rewriting Logiheimli and travel.
+rewriting Logiheimli and [travel](/posts/rewriting-travel).
