@@ -37,6 +37,36 @@ questions about the adventure and the setting and the kind folks over there
 have limitless patience. None of what follows is meant to be **in any way**
 insulting or a complaint.
 
+## A Note About Details
+Much about what follows will be me taking the text given and then *fleshing it
+out*. I make comment that my job as a GM would have been easier, and thus the
+book would have been more valuable if these details were provided. It should be
+noted that this is only true of me, and folks like me.
+
+There's a whole other camp of reasonable folks whose experience would have been
+*worse* if read-aloud text was thrust upon them. Folks who already know exactly
+what *their* Isfjall Inn ought to be like, what season it is, what'll happen in
+town, and all about the shops and their keepers.
+
+I know this because I've had this exact conversation with Douglas Cole before.
+We've talked about how tough it is to please both camps of folks. How if you
+flesh out a book to the degree that I do below, it becomes too thick; too
+expensive.
+
+I think there's a few good options:
+
++ Make it *extremely* clear that the whole thing is a toolbox with some sort of
+  boxed blurb. Don't like the provided Inn, NPCs, backstory, or whatever? You
+  don't have to use them! Use your own stuff!
++ Sell the detail separately. Isfjall can say stuff like "The adventurers can
+  rest at an inn of your own divising, or 'Odin's Beard' from *Nordlond
+  Taverns, Shops, and Proprietors, page 31*". Then that book can be a big ol'
+  index of Nordlond flavored Taverns, Shops, Proprietors, and town encounters
+  that we can use *if we want*.
+
+I really like the second solution here. It makes it so the folks that don't
+care don't have to pay for the extra pages.
+
 ## Isfjall and Finding A Quest
 
 The book gives us a ton of info about Isfjall: it's history (former dragon
@@ -62,17 +92,25 @@ structure that's reinforced by *I Smell A Rat*: DFE14: **Finding A Quest**. In
 Woah, lots to unpack here, and a lot to rewind in order to have a coherent
 campaign. Say that you're just like me, and this is the first Nordlond (first
 gurps adventure at all, really) adventure you're running. What are all of these
-nouns, events, and plot points? Did I skip a section?
+nouns, events, and plot points? As a GM, I would really appreciate having the
+book restructured so that none of this is mysterious.
 
-Wait, did I miss the opening speech somewhere?
+Taking a step back. The point of a adventure module is to take a world and
+adventure that lives in an author's head, encode it into a book, then have a GM
+decode it into their brain. We want to write it in a way to make this decoding
+process as painless as possible. Then, the GM, who knows all the mysteries,
+secrets, and hidden things, feeds mystery and adventure to the players.
 
-Where's the "Session 1" info?
+The other job of an adventure module is to provide guidance to (potentially
+fledgling) GMs on how to run the adventure. How to pace it, how to make it
+dramatic, advice on what to say.
 
-You've pitched a "viking/skyrim setting with faeries and dragons and demons"
-and the players are super into it and made characters. Chatter died down and
-it's time for you to set the scene. What's your speech?
+The time they can do this the best is before anything has the chance to get off
+the rails: Session 1. The adventure module can provide a GM with all of the
+context they need for their first session. That all starts with the opening
+speech, which we'll craft. 
 
-Caravan to Ein Arris gives you a speech.
+Here's an example from Caravan to Ein Arris:
 
 > The air is buzzing in the market of Khedris – the great market that
 > stretches from the fishmongers on the shore to Caravan Square. Halmaro the
@@ -81,7 +119,7 @@ Caravan to Ein Arris gives you a speech.
 > no ordinary caravan; it will carry goods and gifts for the wedding of
 > Halmaro’s daughter Kira to Prince Eiru of Mashanda.
 
-It goes on 5 more paragraphs! Coming up with a speech that good is *significant prep*.
+It goes on 5 more paragraphs! Really cool writing.
 
 Here's the intro from [Abomination Vaults](https://paizo.com/store/pathfinder/adventures/adventurePath/abominationVaults)
 
@@ -126,7 +164,7 @@ but if they dally... winter is coming.
 
 So, let's go with October 1st. *What year is it?*
 
-This is actually difficult too. HoJ doesn't mention anything about the nordlond
+This is actually difficult too. HoJ doesn't mention anything about the Nordlond
 calendar, but Forest's End gives us the following timeline.
 
 | Year  | Event                       |
@@ -1029,14 +1067,15 @@ that to the group!
 That was *a lot*. My main takeaway from this is that the book structure matters
 *a lot*. My first read-through of Hall of Judgement was very confusing; I
 remember reading all of the Isfjall sections and thinking "Wow, what a cool
-town, this is awesome"!, and then the book skipped directly to "The Lost Hall
+town, this is awesome!", and then the book skipped directly to "The Lost Hall
 of Judgement" and wrote out the skeleton of a scene and motivation. 
 
 My stomache sunk thinking "where are the things *players* care about?" What
-does this guy look like? Where are the NPCs they'll interact with? What are these problems and places that they're
-referencing - did I miss something? How do I actually start the game? There's
-this great post that [Charles Saeger](http://gurpshexytime.blogspot.com/) links
-to called [twenty quick questions for your campaign
+does this guy look like? Where are the NPCs they'll interact with? What are
+these problems and places that they're referencing - did I miss something? How
+do I actually start the game? There's this great post that [Charles
+Saeger](http://gurpshexytime.blogspot.com/) links to called [twenty quick
+questions for your campaign
 setting](http://jrients.blogspot.com/2011/04/twenty-quick-questions-for-your.html)
 and I think rewriting Isfjall so that *these* answers are bolded, front and
 center would have been awesome.
