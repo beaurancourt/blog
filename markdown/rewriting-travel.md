@@ -525,7 +525,7 @@ The more complex is what I went with. Full deep end. I ended up converting the
 whole thing to a hexcrawl, copying the rules wholesale from [Charles
 Saeger](http://gurpshexytime.blogspot.com/). The main rules are found in
 [urbancrawl](http://gurpshexytime.blogspot.com/2021/10/urbancrawling-in-dungeon-fantasy.html),
-[hexcrawl](https://gurpshexytime.blogspot.com/2019/01/hex-ed-wilderness-hex-crawls-in-dungeon.html),
+[hexcrawl](http://gurpshexytime.blogspot.com/2015/04/current-hex-crawl-procedures.html),
 and
 [dungeoncrawl](https://gurpshexytime.blogspot.com/2020/06/dungeoncrawl-procedures.html).
 He also has [a central link
