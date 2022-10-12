@@ -24,8 +24,9 @@ providing both answers to my fundamental problem. Sold.
 
 My group picked up [DFRPG](http://www.sjgames.com/dungeonfantasy/), I tried to
 absorb the rules, and then ran *I Smell a Rat*, the included dungeon as a
-tutorial to the system. In the background, I began preparing *Hall of
-Judgement*, which is the adventure geared toward fresh 250-point characters.
+tutorial to the system. In the background, I began preparing [Hall of
+Judgement](https://gaming-ballistic.myshopify.com/products/hall-of-judgment-second-edition?variant=42552560746751),
+which is the adventure geared toward fresh 250-point characters.
 
 The rest of the post will detail the prep that I did, and list out pain points
 I had in parsing the text. I provide this so that others can copy my work, and
