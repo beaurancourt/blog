@@ -603,4 +603,3 @@ At any rate, same as last time, hopefully this helps. Hopefully it helps both
 GMs looking to run Hall of Judgement, as well as folks looking to write their
 own modules trying to understand how it looks from the side of someone trying
 to absorb your writing. One last post is planned on rewriting Logiheimli.
-
