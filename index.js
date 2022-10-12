@@ -16,7 +16,7 @@ app.use(express.static(dir))
 const home = (_, res) => {
   fs.readdir('markdown', (_, files) => {
     const posts = files.map(file => {
-      const rawDate = fs.statSync('markdown/' + file).mtime
+      const rawDate = fs.statSync('markdown/' + file).birthtime
       const date = rawDate.toLocaleDateString("en-US", {year: 'numeric', month: 'long', day: 'numeric'})
       return {
         ref: file.slice(0, file.length - 3),
