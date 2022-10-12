@@ -6,6 +6,8 @@ const fs = require('fs');
 const app = express();
 const port = 8000;
 const handlebars = require('express-handlebars');
+const { rssFeed } = require('./rss')
+
 app.set('view engine', 'handlebars');
 app.engine('handlebars', handlebars({
   layoutsDir: __dirname + '/views/layouts',
@@ -56,6 +58,11 @@ app.get('/posts/:postName', (req, res) => {
       res.sendStatus(404)
     }
   })
+})
+
+app.get('/rss', (_, res) => {
+  res.set('Content-Type', 'text/xml')
+  res.send(rssFeed())
 })
 
 app.listen(port, () => console.log(`App listening to port ${port}`));
