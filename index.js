@@ -49,7 +49,7 @@ app.get('/posts/:postName', (req, res) => {
     if (err == null) {
       fs.stat(fileName, (_, stats) => {
         const html = marked(data);
-        const date = stats.mtime.toLocaleDateString("en-US", {year: 'numeric', month: 'long', day: 'numeric'})
+        const date = stats.birthtime.toLocaleDateString("en-US", {year: 'numeric', month: 'long', day: 'numeric'})
         res.render('post', {layout: 'index', html: html, title: toTitle(req.params.postName), date: date});
       })
     } else {
