@@ -1,5 +1,6 @@
 const { json2xml } = require('xml-js')
-const fs = require('fs');
+const fs = require('fs')
+const crypto = require('crypto')
 
 function toTitle(text) {
   return text.replace(/(^\w|-\w)/g, (text) => text.replace(/-/, " ").toUpperCase());
@@ -9,10 +10,12 @@ function getPosts() {
   const files = fs.readdirSync('markdown')
   const posts = files.map(file => {
     const rawDate = fs.statSync('markdown/' + file).birthtime
+    const changeTime = fs.statSync('markdown/' + file).ctime
     const date = rawDate.toLocaleDateString("en-US", {year: 'numeric', month: 'long', day: 'numeric'})
     const fileId = file.slice(0, file.length - 3)
     return {
       url: `http://beaushinkle.xyz/posts/${fileId}`,
+      guid: `${fileId}-${changeTime}`
       name: toTitle(fileId),
       date: date,
       rawDate: rawDate
@@ -58,6 +61,16 @@ function getPosts() {
             {
               "type": "text",
               "text": `${post.name} - ${post.date}`
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "name": "guid",
+          "elements": [
+            {
+              "type": "text",
+              "text": post.guid
             }
           ]
         },
