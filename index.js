@@ -7,6 +7,7 @@ const app = express();
 const port = 8000;
 const handlebars = require('express-handlebars');
 const { rssFeed } = require('./rss')
+const dates = require('./dates')
 
 app.set('view engine', 'handlebars');
 app.engine('handlebars', handlebars({
@@ -15,10 +16,11 @@ app.engine('handlebars', handlebars({
 const dir = path.join(__dirname, 'public');
 app.use(express.static(dir))
 
+
 const home = (_, res) => {
   fs.readdir('markdown', (_, files) => {
     const posts = files.map(file => {
-      const rawDate = fs.statSync('markdown/' + file).birthtime
+      const rawDate = new Date(dates[file])
       const date = rawDate.toLocaleDateString("en-US", {year: 'numeric', month: 'long', day: 'numeric'})
       return {
         ref: file.slice(0, file.length - 3),
@@ -49,11 +51,10 @@ app.get('/posts/:postName', (req, res) => {
   const fileName = 'markdown/' + req.params.postName + '.md'
   fs.readFile(fileName, "utf8", (err, data) => {
     if (err == null) {
-      fs.stat(fileName, (_, stats) => {
-        const html = marked(data);
-        const date = stats.birthtime.toLocaleDateString("en-US", {year: 'numeric', month: 'long', day: 'numeric'})
-        res.render('post', {layout: 'index', html: html, title: toTitle(req.params.postName), date: date});
-      })
+      const rawDate = new Date(dates[req.params.postName + ".md"])
+      const html = marked(data);
+      const date = rawDate.toLocaleDateString("en-US", {year: 'numeric', month: 'long', day: 'numeric'})
+      res.render('post', {layout: 'index', html: html, title: toTitle(req.params.postName), date: date});
     } else {
       res.sendStatus(404)
     }
