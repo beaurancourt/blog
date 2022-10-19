@@ -1,3 +1,7 @@
++ Part 2: [Rewriting Travel](/posts/rewriting-travel)
++ Part 3: [Describing A Scene](/posts/describing-a-scene)
++ Part 4: [Rewriting Logiheimli](/posts/rewriting-logiheimli)
+
 ## Preface
 
 I've been game mastering since D&D in middle school circa the year 2000,
@@ -12,7 +16,7 @@ publishes [adventure
 paths](https://paizo.com/store/pathfinder/adventures/adventurePath/ageOfAshes)
 that take players from the beginning of the game to max level, and they take
 most groups over a year to get through (if they ever do). Yet, you still need
-random encounters and wandering monsters and improv for when things get off the
+random encounters and wandering monsters and improvise for when things get off the
 rails, and for that you need some sort of bestiary. As far as I could tell
 about GURPS, it didn't have either of those things.
 
@@ -25,7 +29,7 @@ providing both answers to my fundamental problem. Sold.
 My group picked up [DFRPG](http://www.sjgames.com/dungeonfantasy/), I tried to
 absorb the rules, and then ran *I Smell a Rat*, the included dungeon as a
 tutorial to the system. In the background, I began preparing [Hall of
-Judgement](https://gaming-ballistic.myshopify.com/products/hall-of-judgment-second-edition?variant=42552560746751),
+Judgment](https://gaming-ballistic.myshopify.com/products/hall-of-judgment-second-edition?variant=42552560746751),
 which is the adventure geared toward fresh 250-point characters.
 
 The rest of the post will detail the prep that I did, and list out pain points
@@ -46,8 +50,8 @@ noted that this is only true of me, and folks like me.
 
 There's a whole other camp of reasonable folks whose experience would have been
 *worse* if read-aloud text was thrust upon them. Folks who already know exactly
-what *their* Isfjall Inn ought to be like, what season it is, what'll happen in
-town, and all about the shops and their keepers.
+what *their* Isfjall Inn ought to be like, what season it is, what will happen
+in town, and all about the shops and their keepers.
 
 I know this because I've had this exact conversation with Douglas Cole before.
 We've talked about how tough it is to please both camps of folks. How if you
@@ -60,7 +64,7 @@ I think there's a few good options:
   boxed blurb. Don't like the provided Inn, NPCs, backstory, or whatever? You
   don't have to use them! Use your own stuff!
 + Sell the detail separately. Isfjall can say stuff like "The adventurers can
-  rest at an inn of your own divising, or 'Odin's Beard' from *Nordlond
+  rest at an inn of your own devising, or 'Odin's Beard' from *Nordlond
   Taverns, Shops, and Proprietors, page 31*". Then that book can be a big ol'
   index of Nordlond flavored Taverns, Shops, Proprietors, and town encounters
   that we can use *if we want*.
@@ -72,8 +76,8 @@ care don't have to pay for the extra pages.
 
 The book gives us a ton of info about Isfjall: it's history (former dragon
 thralls ran away after the dragon empire fell and founded isfjall), it's
-climate (cold), the types of folks who live there (permament residents,
-snowbirds, traders, vistors), info about laws, customs, religion, trade, and
+climate (cold), the types of folks who live there (permanent residents,
+snowbirds, traders, visitors), info about laws, customs, religion, trade, and
 guilds. Flipping through though, there's very little on *specifics*. If the
 party wants to get some ale, what's the name of the inn? The innkeeper? If they
 want to buy/sell weapons (they will), acquire delving goods (they will), where
@@ -88,7 +92,7 @@ structure that's reinforced by *I Smell A Rat*: DFE14: **Finding A Quest**. In
 > Geirolf Tyrthegn, a cleric of the God of Law who is convinced, against all
 > counterargument, that the artifact and sword recently returned from the slain
 > holy warrior Gyrid portend dire consequences and events in the Frostharrow,
-> and perhaps in all of Norðlond.
+> and perhaps in all of Nordlond.
 
 Woah, lots to unpack here, and a lot to rewind in order to have a coherent
 campaign. Say that you're just like me, and this is the first Nordlond (first
@@ -158,8 +162,8 @@ There's a whole bunch of guidance about the various festivals on HoJ:9-12, and
 this allows us to make another important decision: *what's the date?*
 
 The book makes no recommendation, the campaign is fresh and I don't have a
-preference. There are two holidays a month, and there is fully spec'd climate
-chart for each month on HoJ29. So, I asked Douglas Cole himself, and he
+preference. There are two holidays a month, and there is fully specified
+climate chart for each month on HoJ29. So, I asked Douglas Cole himself, and he
 recommended October. It's warm enough that delvers feel comfortable going out,
 but if they dally... winter is coming.
 
@@ -208,7 +212,7 @@ drastically change depending on which festival the town was currently throwing).
 What all do we need for a coherent first session? There's an article about
 [creating a script](https://theangrygm.com/like-players-do/) of a session, and
 using that script to structure your prep that I find *very* useful. So, here's
-my script of the opening session for "Hall of Judgement".
+my script of the opening session for "Hall of Judgment".
 
 > I'll read a really dramatic and cool opening speech that sets the scene of
 > Isfjall during Remembrance Day (HOJ:11), then ask the players what they want
@@ -219,7 +223,7 @@ my script of the opening session for "Hall of Judgement".
 > Geirolf Tyrthegn who gives them a quest to find the hall, and then they'll
 > probably want to gear up for the trip. They might try to find a sponsor.
 
-Converting that into an itemized todo list:
+Converting that into an itemized TODO list:
 
 - [ ] An opening speech
 - [ ] A week's worth of town encounters
@@ -242,13 +246,13 @@ have heaps of tables!
 Here's what we know:
 
 + It's October 1st, 965 FN
-+ It's Remembrance Day (viking halloween; awesome!)
++ It's Remembrance Day (viking Halloween; awesome!)
 + Isfjall's population is big in the summer, small in the winter, so folks ought to be leaving
 + Most folks (and goods) travel by boat down the river
 + It's cold
 + The mountain is situated right next to Einmannafjall HOJ:3
-+ the town has multiple rings HOJ:3 (sort of like paris)
-+ Lake Odin is deep and has myterious stuff in it.
++ the town has multiple rings HOJ:3 (sort of like Paris)
++ Lake Odin is deep and has mysterious stuff in it.
 + The docks are impressive
 
 So how about:
@@ -257,7 +261,7 @@ So how about:
 > cold. It's *damn* cold. That's the second thing you notice as your Ana Rottur
 > rowboat effortlessly glides over the waters of Lake Odin. The first thing was
 > Einmannafjall. You'd heard tale of "The Lonely Mountain" before; of it's
-> height; it's magesty. Seeing it in person is a different thing all together. \
+> height; it's majesty. Seeing it in person is a different thing all together. \
 > \
 > As your boat crosses into the Lake proper, you feel, you really *feel* that
 > it's alive. Not just that it contains life. It does. Or that it sustains it.
@@ -271,7 +275,7 @@ So how about:
 > \
 > But you guys are made of sturdy stuff, and maybe you're a little bit crazy.
 > You are delvers after all. You arrive at Isfjall's impressive docks, eager to
-> stretch your legs. You find a town in the misdt of a festival! Wandering from
+> stretch your legs. You find a town in the midst of a festival! Wandering from
 > the docks to the market square, you see adults and children in costume,
 > dressed up in the guise of monsters and spirits. \
 > \
@@ -285,11 +289,11 @@ So how about:
 
 The HoJ makes *vague* reference to town encounters: "Not more than one step
 (HOJ:8)" talks about how folks *really* like testing other folks that aren't
-carrying weapons via insult/shoulder check and try to intice them into a
+carrying weapons via insult/shoulder check and try to entice them into a
 wrestling match. "Unlicensed Commerce (HOJ:7)" talks about how folks who
 participate in unlicensed trade twice will be "cornered in a dark alley and
-beated within an inch of their life". "Crime, Weregild, and Judicial Combat"
-talks about how victims of a crime *sell* their right to extract vengence.
+beaten within an inch of their life". "Crime, Weregild, and Judicial Combat"
+talks about how victims of a crime *sell* their right to extract vengeance.
 
 So:
 
@@ -311,7 +315,7 @@ Cities](https://www.midkemia.com/HomePage/OrderForm.html) for random town
 encounter tables. [Here's a preview](https://midkemia.com/HomePage/SupportFiles/CitiesBook-sampler.pdf).
 We also need a way to generate NPC names. I use
 [this](https://www.fantasynamegenerators.com/icelandic-names.php). Also,
-because I keep my notes digitally and can't search for charcters like þ or ð, I
+because I keep my notes digitally and can't search for characters like þ or ð, I
 use a pretty simple conversion that I homebrewed. I use the same for the
 bestiary. `þ => th`, `ð => d`. All accented characters get their accent
 dropped. Easier for my USA english-only brain. That means a name like "Þjóðann
@@ -356,12 +360,12 @@ Reputation: food - small portions
 Featured Main Dishes: venison ribs in wine
 ```
 
-> You're directed to a newly constructed two-story brick inn with a wooden sign
-> depicting a sentient bow yelling at an annoyed scout. The inn
-> declares itself to be "The Raving Bow". It seems this section of town built
-> *up* not *out*. Even though this is a two-story room, the *cots* are in the
-> cozy main room. The smell of venison ribs in some sort of wine marinade
-> floats in from the *very* nearby kitchen.
+> You're directed to a newly constructed two-story brick building with a wooden
+> sign depicting a sentient bow yelling at an annoyed scout. The inn declares
+> itself to be "The Raving Bow". It seems this section of town built *up* not
+> *out*. Even with two stories, the *cots* are in the cozy main room. The smell
+> of venison ribs in some sort of wine marinade floats in from the *very*
+> nearby kitchen.
 
 Innkeeper:
 ```
@@ -514,7 +518,7 @@ to Geirolf and it feels like a nice callback.
 
 Otherwise, the party member attempting *Find a Quest* hears word that Geirolf
 Tyrthegn, a priest of Tyr, is funding a trip to find the lost Hall of
-Judgement. He's paying upfront, but you have to swear an *oath*.
+Judgment. He's paying upfront, but you have to swear an *oath*.
 
 They're given directions to Geirolf's office in Tyr's Temple.
 
@@ -524,7 +528,7 @@ Here's where things get tricky. The text says
 > Geirolf Tyrthegn, a cleric of the God of Law who is convinced, against all
 > counterargument, that the artifact and sword recently returned from the slain
 > holy warrior Gyrid portend dire consequences and events in the Frostharrow,
-> and perhaps in all of Norðlond. \
+> and perhaps in all of Nordlond. \
 > \
 > Geirolf is in possession of both sword and relic (which he calls a tiwstakn);
 > he is also in possession of the stolen manuscripts and maps from the Isfjall
@@ -543,7 +547,7 @@ Here's where things get tricky. The text says
 > other priests and wardens of the Law God: they believe that while the Hall of
 > Judgment is a powerful legend whose rediscovery would be valuable, now is not
 > the time. Geirolf feels that the uprising, demon-cult activity and the
-> finding of the relic are connected. The last meeting of the Alþingi was
+> finding of the relic are connected. The last meeting of the Althingi was
 > somewhat boisterous. \
 > ... \
 > Geirolf is convinced that the time is ripe to rediscover the Hall, and that
@@ -559,7 +563,7 @@ Now we need to unpack this.
 + Why does this portend dire consequences for Nordlond?
 + Why does it's location near the Hunted Lands pose a threat?
 + Why is there a recent surge in the dead rising?
-+ Why is the Hall of Judgement a lost legend?
++ Why is the Hall of Judgment a lost legend?
 + How is the undead uprising, the demon-cult activity, and the finding of the
   relic connected, the activity of the faerie in the frostharrow, and the
   growing instability of the magic of Lake Odin connected?
@@ -571,11 +575,11 @@ The text says that the artifact is called a "Tiwstakn". As written, it:
   (if they know the ritual)
 + Lets someone have an easier time casting magelock / praying to open the
   Sturdy Door in Logiheimli
-+ Lets someone into the Vault of Law in the Hall of Judgement
++ Lets someone into the Vault of Law in the Hall of Judgment
 
 As written, there would be *very* little chance Rules-As-Written of the party
 *just so happening* to use the map+tiwstakn ritual correctly. You must have two
-people: one person recites the oath to seek the Hall of Judgement while the
+people: one person recites the oath to seek the Hall of Judgment while the
 other person simultaneously casts Pathfinder specifically while both of them
 hold the map.
 
@@ -605,14 +609,14 @@ reasonable questions.
 
 #### What Sword?
 The text says that the sword is Gyrid's blessed blade, a rare two-handed blade
-forged in Vopnferd (what/where is Vopnferd? a city famous for craftmanship
+forged in Vopnferd (what/where is Vopnferd? a city famous for craftsmanship
 about 400 miles [south-east by river](/images/nordlond-map.png)) of pattern-welded steel.
 
 #### How was Gyrid slain? How did the artifact/sword make their way back to Geirolf?
 This is the one that got me the hardest. I didn't think to prep this before we
 actually played and so my players were *incredibly* suspicious of Geirolf after
-the nonsense I improvised. They wanted to magically verify his story my improv
-was so garbage. I still don't think they trust him, poor guy.
+the nonsense I improvised. They wanted to magically verify his story my
+improvisation was so garbage. I still don't think they trust him, poor guy.
 
 The original text offers only an *extremely* vague hint on HoJ:41:
 
@@ -639,14 +643,14 @@ ends up in Isfjall with Geirolf.
 I was confused enough about this that I contacted the GamingBallistic folks
 again. As it turns out, the original *Hall of Tyr* had a longer backstory that
 fleshes this out totally. It's worth taking it wholesale, that way if you have
-curious players, you don't have to improv and your world has richer history.
+curious players, you don't have to improvise and your world has richer history.
 
 ---
 
 > Originally, Gyrid and her band of 8 other Tyr-devotees ventured into the
 > [Greniheim Forest](/images/nordlond-map.png) (part of the hunted lands) to
 > take care of a roving band of Storalfs. Along the way they met Una (Elunad in
-> disguise) who tricked them into finding and retreiving a tiwstakn from an
+> disguise) who tricked them into finding and retrieving a tiwstakn from an
 > enchanted pool. Elunad betrayed the band and killed most of them. Before she
 > could seize the tiwstakn, Gyrid claimed it in the name of Tyr, and wagering
 > it on a riddle battle. If Gyrid should win, the key would remain in the human
@@ -736,7 +740,7 @@ record an actual date. It isn't important for *players* to have precise
 timelines, but it is important for GMs. Let's say that it was cursed 437 years
 ago (March 8th, 528 FN).
 
-The curse (as written), doesn't spawn skeletons or rejuvinate skeletons. The
+The curse (as written), doesn't spawn skeletons or rejuvenate skeletons. The
 entry for skeleton on HoJ:91 even specifically has Unhealing (total). The
 wandering skeletons that players are supposed to encounter as a wilderness
 encounter (HoJ:25) are the risen questors from the barrows.
@@ -756,7 +760,8 @@ incoherent. How do we fix it? Three main options:
 
 + Logiheimli was cursed *recently*
 + The skeletons have only recently started to wander
-+ No matter how the skeletons are destroyed, they wind back up in Logiheimli the next day
++ No matter how the skeletons are destroyed, they wind back up in Logiheimli
+  the next day
 
 The third option is out; we need the surge of undead to be recent. The first
 option is attractive, but doesn't make a lot of sense narratively. We'd have to
@@ -769,12 +774,13 @@ everything the dwarven smith and warden say stands. However! Recently the
 questors have begun to wander rather meandering around Logiheimli.
 
 Options to make this happen:
-+ The curse originally made them wander, but was supressed. The supression has recently faded.
++ The curse originally made them wander, but was suppressed. The suppression
+  has recently faded.
 + The curse just animated them, and was recently *altered*.
 
 Of these two options, I prefer the second. The first would be easy to tie in:
 we know that the Tyr worked with Helya to preserve the Warden and his Huskarls
-until Logiheimli was cleansed. We could also say that Tyr supressed the
+until Logiheimli was cleansed. We could also say that Tyr suppressed the
 wandering effect, but that the blessing has faded with time.
 
 Yet, the second allows us to tie in another antagonist. A demon-cult heard
@@ -853,7 +859,7 @@ Lake Odin, but we can save that for another quest. Easy enough to blame it on
 Elunad/faerie or Hringur Likklaedsins. Geirolf would have no idea *how* it's
 all connected but he's not wrong.
 
-The Hall of Judgement is lost and closed to farsight, but that's nothing new.
+The Hall of Judgment is lost and closed to farsight, but that's nothing new.
 What is new is that both Hringur Likklaedsins and Elunad are looking for
 another tiwstakn to get in.
 
@@ -913,7 +919,7 @@ With the pieces in place, we can write the scene:
 
 > You are lead into the cluttered office of a thickset, ruddy-skinned,
 > middle-aged man. Their eyes are periwinkle, and their hair is a messy bush of
-> dark auburn that envelops over their ears. They've chosen to sculp a stubby
+> dark auburn that envelops over their ears. They've chosen to sculpt a stubby
 > goatee. \
 > \
 > The man waits until everyone is settled in, and the guide has departed before
@@ -923,9 +929,9 @@ With the pieces in place, we can write the scene:
 > returned, bearing a tale of betrayal from a powerful faerie noble, and
 > (motions) this artifact... and (motions again) their companion's blessed
 > sword. The artifact, a tiwstakn, along with (motions) this holy map I
-> pillaged from the archives allowed us to finally locate the Hall of Judgement
+> pillaged from the archives allowed us to finally locate the Hall of Judgment
 > after it having been lost to Nordlonders for centuries. I'm looking for
-> Thegns, powerful and brave, to *Swear an Oath* to seek the Hall of Judgement
+> Thegns, powerful and brave, to *Swear an Oath* to seek the Hall of Judgment
 > and rediscover it once more. I sense that the recent demon-cult activity, the
 > uptick in the rising dead, and the activity of the fae in the frostharrow are
 > all connected. With this many adversaries converging, it can only spell
@@ -936,7 +942,7 @@ At this point, the party will probably have *a lot* of questions:
 
 + What is Tyr? (the god of law)
 + What are Storalfs? (hobgoblins)
-+ Why is the Hall of Judgement important? (seek an audience with tyr, read the book in the vault of law)
++ Why is the Hall of Judgment important? (seek an audience with Tyr, read the book in the vault of law)
 + How does Geirolf sense that it's all connected? (omen reading)
 
 Geirolf also has two main questions for the party:
@@ -945,16 +951,16 @@ Geirolf also has two main questions for the party:
 + Will you swear an oath to seek the hall?
 
 Asking the first question allows the characters to talk about their adventuring
-backstory (which you should tell them they should have, or be ready to improv).
+backstory (which you should tell them they should have, or be ready to improvise).
 DFRPG starting adventurers are *hecking strong*, absurdly stronger than
 townsfolk. In D&D terms, they'd already be level 7 or so, I'd hazard. They
-means they'd already have *a lot* of adventuring under ththeir belt, and should
+means they'd already have *a lot* of adventuring under their belt, and should
 be ready to talk about the cool stuff they've done before now. Try to also get
 them to play up the teamwork aspect - what niche do they fill in the team dynamic?
 
 Asking the second question is mechanically important. The tiwstakn only works
 if you swear to seek the hall. We can tie this in with gurps disadvantages and
-give everyone Vow (Seek the Hall of Judgement) [-10]. See Broken Promises (DFA58)
+give everyone Vow (Seek the Hall of Judgment) [-10]. See Broken Promises (DFA58)
 for if they accept and then don't want to/cant do it anymore.
 
 With everyone satisfied and the heroes sworn to seek the Hall, Geirolf gives
@@ -981,19 +987,20 @@ move speed is 5. So, we either have 17 effective ST ponies or 21 effective ST
 ponies. Let's go with 17; it's in line with the work from the Nordlond
 Bestiary.
 
-The cash is a substitue for the vatnvikur from the original text. Dungeon
+The cash is a substitute for the vatnvikur from the original text. Dungeon
 Fantasy 16: Wilderness Adventures says on page 43 about water:
 
-> Since it isn’t fun to keep track of every drop of water the party has, assume
+> Since it is not fun to keep track of every drop of water the party has, assume
 > that each meal carried or found comes with sufficient water to meet survival
 > needs. Thus, stopping to for- age finds extra water in proportion to meals;
 > e.g., if the group forages 40 meals, or about 13 man-days of food, they also
 > stockpile 13 man-days of water.
 
-I totally agree. We're travelling through places with ample freshwater, and
+I totally agree. We're traveling through places with ample freshwater, and
 ample snow to be melted; we don't need to lug (extremely heavy) water from town
 to dungeon like this is a desert. Feel free to tell your wizards and clerics
-they don't need *Create Water* if they took it. Just not worth worrying about imo.
+they don't need *Create Water* if they took it. Just not worth worrying about
+in my opinion.
 
 Geirolf does **not** hand over the sword. (More about this later).
 
@@ -1002,7 +1009,7 @@ Geirolf does **not** hand over the sword. (More about this later).
 
 ### A Sponsor
 Okay! Now that the party knows that they'll be doing - trekking far to the
-northwest to find the lost Hall of Judgement, they might want extra gear for
+northwest to find the lost Hall of Judgment, they might want extra gear for
 the journey. That means *Finding a Sponsor* (DFE14).
 
 Let's reuse Ram Dagthorsson here (from Ram's Armory & Emporium) and tie in
@@ -1025,13 +1032,13 @@ but he'll be on death's doorstep. Helping (or not) Ram can be another quest!
 HoJ:16-17 provides a list of rumors, which is *excellent* for our purposes. We can
 give our party ~4 of them.
 
-+ All Norðlonders are well advised to carry iron and steel weapons at all
++ All Nordlonders are well advised to carry iron and steel weapons at all
   times; wood or bronze is of little to no use against faerie.
 + Some demons—the powerful ones—and certain undead can only be injured or killed by magical weapons.
 + Over 50 members of a demon cult were recently discovered performing a ritual
   designed to weaken the boundaries between the Nine Realms.
 + Travelers are warned to steer clear of stone circles and dark clefts in old
-  trees, lest they fall into a norðalf warren
+  trees, lest they fall into a nordalf warren
 
 These are chosen specifically to mildly reinforce Geirolf's story, but also
 provide useful context and foreshadow what's to come. *Now*, the party should
@@ -1049,7 +1056,7 @@ Then we need *Research*.
   nightmares of a shape-shifting demon with huge pincers, locked in a divine
   prison, raging against its confines.
 + Investigations into Logiheimli reveal that the fortress was originally a
-  waypoint on the pilgrimage to the Hall of Judgement, but was cursed on March
+  waypoint on the pilgrimage to the Hall of Judgment, but was cursed on March
   8th, 528 FN, by a cult named Skuggaborinn, reanimating all the dead interred
   there. It's been abandoned since. Nothing about it being cleansed, nothing
   about the dead *roaming*.
@@ -1058,7 +1065,7 @@ Then we need *Research*.
   Climb", "The Strong Gate", and "The Sacrifice Gate" but little else.
 
 Fortunately for us, Research just happens at the library, so no need for a NPC
-or a scene. We can just narrarate a day of hard work skimming through ancient
+or a scene. We can just narrate a day of hard work skimming through ancient
 texts in a dusty library, read the above, and then ask the player how he relays
 that to the group!
 
@@ -1066,12 +1073,12 @@ that to the group!
 
 ## Wrapping Up
 That was *a lot*. My main takeaway from this is that the book structure matters
-*a lot*. My first read-through of Hall of Judgement was very confusing; I
+*a lot*. My first read-through of Hall of Judgment was very confusing; I
 remember reading all of the Isfjall sections and thinking "Wow, what a cool
 town, this is awesome!", and then the book skipped directly to "The Lost Hall
-of Judgement" and wrote out the skeleton of a scene and motivation. 
+of Judgment" and wrote out the skeleton of a scene and motivation. 
 
-My stomache sunk thinking "where are the things *players* care about?" What
+My stomach sunk thinking "where are the things *players* care about?" What
 does this guy look like? Where are the NPCs they'll interact with? What are
 these problems and places that they're referencing - did I miss something? How
 do I actually start the game? There's this great post that [Charles
@@ -1093,7 +1100,7 @@ of. The ideas are *top notch*, and being able to actually talk to the authors
 and other GMs is an experience like no other.
 
 Hopefully this helps. Hopefully it helps both GMs looking to run Hall of
-Judgement, as well as folks looking to write their own modules trying to
+Judgment, as well as folks looking to write their own modules trying to
 understand how it looks from the side of someone trying to absorb your writing.
 
 This was just the opening sessions in Isfjall. Follow-up posts will cover

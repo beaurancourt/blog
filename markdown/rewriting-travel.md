@@ -1,3 +1,7 @@
++ Part 1: [Rewriting Isfjall](/posts/rewriting-isfjall)
++ Part 3: [Describing a Scene](/posts/describing-a-scene)
++ Part 4: [Rewriting Logiheimli](/posts/rewriting-logiheimli)
+
 ## Preface
 
 I've been game mastering since D&D in middle school circa the year 2000,
@@ -12,9 +16,9 @@ publishes [adventure
 paths](https://paizo.com/store/pathfinder/adventures/adventurePath/ageOfAshes)
 that take players from the beginning of the game to max level, and they take
 most groups over a year to get through (if they ever do). Yet, you still need
-random encounters and wandering monsters and improv for when things get off the
-rails, and for that you need some sort of bestiary. As far as I could tell
-about GURPS, it didn't have either of those things.
+random encounters and wandering monsters and improvisation for when things get
+off the rails, and for that you need some sort of bestiary. As far as I could
+tell about GURPS, it didn't have either of those things.
 
 Then I found saw an advert for [the nordlond
 bestiary](https://www.kickstarter.com/projects/gamingballistic/nordlond-bestiary-and-enemies-book)
@@ -25,7 +29,7 @@ providing both answers to my fundamental problem. Sold.
 My group picked up [DFRPG](http://www.sjgames.com/dungeonfantasy/), I tried to
 absorb the rules, and then ran *I Smell a Rat*, the included dungeon as a
 tutorial to the system. In the background, I began preparing *Hall of
-Judgement*, which is the adventure geared toward fresh 250-point characters.
+Judgment*, which is the adventure geared toward fresh 250-point characters.
 
 The rest of the post will detail the prep that I did, and list out pain points
 I had in parsing the text. I provide this so that others can copy my work, and
@@ -44,7 +48,7 @@ on history and plot as it pertains to the adventure itself.
 
 This post will deal with the travel rules. We will do two main legs of
 traveling - from Isfjall to Logiheimli, and from Logiheimli to the Hall of
-Judgement.
+Judgment.
 
 The text overlays these routes on the player map:
 
@@ -97,7 +101,7 @@ of wilderness encounters (or 1 day if they push hard). Much better.
 But how long can they travel for? HoJ:29 has a climate table (which we'll use
 to generate the weather each day, including the precipitation, which slows
 travel), and that climate table includes daylight hours by month. October is
-listed as having 11 daylight hours, and the internet says that in iceland the
+listed as having 11 daylight hours, and the internet says that in Iceland the
 sun rises on October 1st at ~8am and sets at ~7pm, if your players want to be
 specific (mine did).
 
@@ -209,7 +213,7 @@ from above, but in their campaign:
 > Taking a closer look around the room, now that the excitement of the moment
 > was over, they discovered a large map of the area etched into stone. It
 > revealed a secret shortcut through the mountains into the area of the Hall of
-> Judgement, bearing west from Logiheimli, rather than north, as they had
+> Judgment, bearing west from Logiheimli, rather than north, as they had
 > intended. It looked like this pass would cut quite a distance off their
 > journey.
 
@@ -241,7 +245,7 @@ following changes:
 
 + We cut the ruined tablets and whatnot; they didn't make sense anyway.
 + The stone slab shows a depiction of the tiwstakn+map ritual. Performing the
-  ritual in front of it opens a *magic gate* to a subterrain cave that quickly
+  ritual in front of it opens a *magic gate* to a subterranean cave that quickly
   exits to a secret passage to the west. This path is shorter than going north
   from Logiheimli to the Hall or going back to Isfjall and then straight to the
   Hall. Have the portal bless them with +1 Navigation (higher chance of +10%
@@ -249,7 +253,7 @@ following changes:
 
 ## Climate
 HoJ:27-29 gives us higher resolution survival rules than the ones found in
-DFE70. Let's math some of this out for october.
+DFE70. Let's math some of this out for October.
 
 Here are the probabilities for the temperature zones for the lowlands:
 
@@ -333,7 +337,13 @@ on lethally cold days - the FP penalties just aren't high enough or probable to
 matter on Uncomfortably Cold days. For Lethally Cold days, the PCs need the
 Warmth spell (Power Investiture 1, free to maintain, +3 to HT), and a few more layers.
 
-This happened our first few sessions before I tossed it out.
+Finally, this means that the Frostharrow doesn't *mechanically* get any colder
+than Isfjall. Lethally Cold is Lethally Cold. It's just that those days are
+more frequent. 26% of the time, they happen 84% of the time (rainy
+uncomfortably cold and up), and 76% of the time, they happen 16% of the time
+(dry lethally cold), for a total probability of 34%.
+
+We ran into these corners for our first few sessions before I tossed it out.
 
 ### What to do about it?
 Let's revert back to the temperature rules on DFE70. They reference *Winter
@@ -353,15 +363,15 @@ for your convenience:
 + Regular Clothing: No benefits, but you still should wear them. $120, 2lbs
 
 Everyone gets a set of Regular Clothing for free, so the idea is that player
-can upgrade at chargen to winter or arctic for $60 (and 3lbs) or $120 (and
-8lbs) respectively. I think SJG forgot that arctic/winter clothing wasn't in
-DFA when they wrote DFE, since both books came after DF16.
+can upgrade at character creation to winter or arctic for $60 (and 3lbs) or
+$120 (and 8lbs) respectively. I think SJG forgot that arctic/winter clothing
+wasn't in DFA when they wrote DFE, since both books came after DF16.
 
 Anyway, no harm in importing those, and it streamlines the whole thing.
 
 The only thing we need to run the DFE70 Temperature rules is a HT penalty and
 whether or not folk's clothes are wet. Let's say the penalty is -2 in Isfjall
-and the Lowlands (in october), -4 in the Hills and Valleys, and -8 in the
+and the Lowlands (in October), -4 in the Hills and Valleys, and -8 in the
 Frostharrow. How's Bog-Standard looking now?
 
 Lowlands:
@@ -391,7 +401,7 @@ as a 1. Alternatively, roll 2d3-4; it's the same distribution.
 ![Weather Variance](/images/weather-variance.png)
 
 For instance, you're in the Hills and Valleys, so your base modifier is -4.
-You roll 2d, and the result is (2,3) That's interpretted as (-1, 0), which sums
+You roll 2d, and the result is (2,3) That's interpreted as (-1, 0), which sums
 up to -1, which makes the total modifier -5.
 
 To generate the graphs (and play with distributions) like above, the tool
@@ -408,19 +418,19 @@ are 1/3 as likely as the animals-and-men columns.
 Rules as Written, our example group with Move 4, trekking ~10 hours a day makes
 it to Logiheimli in two days, so they'd get two encounters.  Our group moves at
 (let's average and give them a 10% speed boost), 3.3 mph through lowlands,
-1.47mph through the hills, and 0.73mph through the frostharrow. Let's simulate
+1.47mph through the hills, and 0.73mph through the Frostharrow. Let's simulate
 out a trip log:
 
 + Day 1 - No Rain - Lowlands - 33 miles (12 miles left): Giant's Skull
 + Day 2 - No Rain - Lowlands - 12 miles: Wild Boar. Arrive at Logiheimli. Find
   western shortcut. Route takes 21 more miles through the lowlands, 54 miles
-  through the hills, and 43 miles through the frostharrow.
+  through the hills, and 43 miles through the Frostharrow.
 + Day 3 - No Rain - Lowlands for the first 6.36 hours (21 miles), Hills for the
   other 3.64 hours (5.35 miles, 48.65 miles left): Ruined Hut
 + Day 4 - No Rain - Hills - 14.7 miles (33.95 miles left): Solitary Trapper
 + Day 5 - Rain - Hills - 7.35 miles (26.6 miles left): Drunk Warrior
 + Day 6 - No Rain - Hills - 14.7 miles (11.9 miles left): No Campsite
-+ Day 7 - No Rain - Hills for the first 8.1 hours (11.9 miles), frostharrow for
++ Day 7 - No Rain - Hills for the first 8.1 hours (11.9 miles), Frostharrow for
   1.9 hours (1.39 miles, 41.61 miles left): Drunk Warrior
 + Day 8 - No Rain - Frostharrow - 7.3 miles (34.31 miles left): Hot Spring
 + Day 9 - Rain - Frostharrow - 3.65 miles (30.66 miles left): No Campsite
@@ -436,7 +446,7 @@ interesting event, never more, never less.
 
 If you read the first few paragraphs of [mshrm's group's journey to
 Logiheimli](https://mshrm.wordpress.com/2020/01/05/dungeon-fantasy-nordlond-4-distractions/),
-you may note that they immediately tossed the contept of one encounter per day.
+you may note that they immediately tossed the concept of one encounter per day.
 On their first day out, mshrm gave his group a variation of the Circling Ravens
 encounter, then followed that up with the Ruined Hut, then Skeletons. Stringing
 these together into a sequence makes for a more compelling narrative than just
@@ -500,7 +510,7 @@ My players just casted silence on themselves and slept in peace. Say you didn't
 do that and everyone got no sleep; what's the penalty? 3 FP (DFE64). That 3 FP
 penalty is *completely irrelevant* unless there's some sort of encounter the
 next day where they'd *really* like to have those FP. Given that DFRPG doesn't
-use Extra Effort in Combat, this is essentially a potential caster tax.
+use Extra Effort in Combat, this reduces to a caster tax.
 
 Something like "Howling Wolves" works much better in a system where you have
 *multiple* encounters a day (potentially), and if they don't deal with the
@@ -564,7 +574,7 @@ their stuff. Even better if they get to *track* where it lives after killing it
 and loot it's stuff, or kill more like it. Super satisfying. Charles Saegler
 has a whole [giant
 document](https://gurpshexytime.blogspot.com/2019/11/happy-thanksgiving-here-is-monsters-and.html)
-on the concept - that'll let you build lairs, roll for how many creatures are
+on the concept - that will let you build lairs, roll for how many creatures are
 roaming out of those lairs (the encounter), and roll for how much stuff is in
 the lair (the loot). If you *just* want the loot charts, [here you
 go](http://gurpshexytime.blogspot.com/2018/02/treasure-for-dungeon-fantasy-from-ad.html).
@@ -600,6 +610,6 @@ Elunad or members of Hringur Likklaedsins, the cult we made up in [Rewriting
 Isfjall](/posts/rewriting-isfjall).
 
 At any rate, same as last time, hopefully this helps. Hopefully it helps both
-GMs looking to run Hall of Judgement, as well as folks looking to write their
+GMs looking to run Hall of Judgment, as well as folks looking to write their
 own modules trying to understand how it looks from the side of someone trying
 to absorb your writing. One last post is planned on rewriting Logiheimli.
