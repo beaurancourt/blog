@@ -48,6 +48,12 @@ how read-aloud text can be optimized for player engagement and pacing, feel
 free to skip this post straight to the *application* of this theory in
 [Rewriting Logiheimli](/posts/rewriting-logiheimli).
 
+2022-10-20 Edit: Digging a little deeper into [the
+alexandrian](https://thealexandrian.net/), it seems that Justin beat me to the
+punch by about 8 years with his series on [the art of the
+key](https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key).
+We arrive at almost exactly the same solution, using almost exactly the same format!
+
 ## Scenes 
 
 You may have noticed in my [post on isfjall](/posts/rewriting-isfjall), that I
