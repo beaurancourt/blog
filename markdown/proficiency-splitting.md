@@ -28,9 +28,9 @@ mathematicians (high Calculation) but poor at geography (low Memory).
 
 Most games go further, making more and more proficiency splits. Every time you
 do this, you increase the unique number of mechanical representations. If you
-only have finesse, you're equally good at picking pockets are you are balancing
-on a tightrope. If you make a thievery skill, you're equally good at picking
-pockets as you are at sleight of hand.
+only have finesse, you're equally good at picking pockets as you are at
+balancing on a tightrope. If you make a thievery skill, you're equally good at
+picking pockets as you are at sleight of hand.
 
 That's the upside. You gain more and more unique mechanical representations.
 It also feels closer to reality.[2] 
