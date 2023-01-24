@@ -67,27 +67,29 @@ Martial characters in GURPS often have high skill in one weapon group[3]
 of fun loot (they'll be more likely to be disappointed that they got a magic
 *sword*, and not a useful magic *axe*) and improvisational play that happens.
 
-[^1]: We can make a really simple system work by changing the impact based on
+---
+
+[1]: We can make a really simple system work by changing the impact based on
 the fiction. Maybe a success for a Power-10 wizard at leaping over a cliff is
 that they barely grab the edge of the pit and need help getting up, while
 failure for the Power-10 fighter is the same as success for the wizard. See
 [Advantage and Impact - Dreaming
 Dragonslayer](https://dreamingdragonslayer.com/2020/03/28/advantage-and-impact/)
 
-[^2]: Personally, I care little about modeling reality. Reality matters less
+[2]: Personally, I care little about modeling reality. Reality matters less
 than internal consistency, and *way* less than making sure the game is fun at
 the table. If someone is annoyed in a dungeon fantasy game that a character is
 equally good at mimicing bird sounds as they are at animal sounds because that
 isn't "realistic"... where does it end?
 
-[^3]: A character with DX-13 and 16 Two-Handed Axe mace attacking another
+[3]: A character with DX-13 and 16 Two-Handed Axe mace attacking another
 character with 9 dodge takes ~3.3 attacks to hit twice. If that character picks
 up a broadsword and attacks the same opponent, it takes ~12.4 attacks to hit
 twice, which is a 3.75x increase in number of attacks.
 
-[^4]: I just give players info, see [The ICI Doctrine -
+[4]: I just give players info, see [The ICI Doctrine -
   Bastionland](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html)
 
-[^5]: I think traps are better as puzzles: see [Stop Hiding Traps -
+[5]: I think traps are better as puzzles: see [Stop Hiding Traps -
   QuestingBeast](https://youtube.com/watch?v=RY_IRqx5dtI)
 
