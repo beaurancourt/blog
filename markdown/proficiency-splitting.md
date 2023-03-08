@@ -10,7 +10,7 @@ chance to do all of those things. This can work in same games (FATE Accelerated
 is really close to this), but feel unsatisfying in others, where we want to
 represent some characters having specialization. The fighter ought to be better
 at climbing rocks and the wizard better at deciphering arcane glyphs; not just
-fictionally[1] but also mechanically.
+fictionally<sup>[1]</sup> but also mechanically.
 
 If we want differentiation, we start partitioning our stats: maybe some checks
 are related to body and some are related to mind. Then, our fighter can have
@@ -33,7 +33,7 @@ balancing on a tightrope. If you make a thievery skill, you're equally good at
 picking pockets as you are at sleight of hand.
 
 That's the upside. You gain more and more unique mechanical representations.
-It also feels closer to reality.[2] 
+It also feels closer to reality.<sup>[2]</sup>
 
 A downside is that if there's an opportunity cost to allocating this
 proficiency (limited points to spend in GURPS or Savage Worlds, point buy in
@@ -62,10 +62,11 @@ day, in order to make the investment into/existence of Hiking worthwhile. Is
 this fun? Or would it be better at the table to just say "ya'll can move X
 hexes per day"? 
 
-Martial characters in GURPS often have high skill in one weapon group[3]
-(Two-Handed Axe/Mace, for example). Choosing to do this *decreases* the amount
-of fun loot (they'll be more likely to be disappointed that they got a magic
-*sword*, and not a useful magic *axe*) and improvisational play that happens.
+Martial characters in GURPS often have high skill in one weapon
+group<sup>[3]</sup> (Two-Handed Axe/Mace, for example). Choosing to do this
+*decreases* the amount of fun loot (they'll be more likely to be disappointed
+that they got a magic *sword*, and not a useful magic *axe*) and improvisational
+play that happens.
 
 ---
 
@@ -86,10 +87,3 @@ isn't "realistic"... where does it end?
 character with 9 dodge takes ~3.3 attacks to hit twice. If that character picks
 up a broadsword and attacks the same opponent, it takes ~12.4 attacks to hit
 twice, which is a 3.75x increase in number of attacks.
-
-[4]: I just give players info, see [The ICI Doctrine -
-  Bastionland](https://www.bastionland.com/2018/09/the-ici-doctrine-information-choice.html)
-
-[5]: I think traps are better as puzzles: see [Stop Hiding Traps -
-  QuestingBeast](https://youtube.com/watch?v=RY_IRqx5dtI)
-
